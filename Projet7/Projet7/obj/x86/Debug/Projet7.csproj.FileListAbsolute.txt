@@ -1,0 +1,11 @@
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Content\Textures\sprites.xnb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Projet7.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Projet7.pdb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\obj\x86\Debug\Projet7.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\obj\x86\Debug\Projet7.pdb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Content\Sounds\4359__NoiseCollector__PongBlipF4.xnb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Content\Sounds\4360__NoiseCollector__ponblipG_5.xnb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet7\Projet7\Projet7\bin\x86\Debug\Content\Textures\background.xnb
